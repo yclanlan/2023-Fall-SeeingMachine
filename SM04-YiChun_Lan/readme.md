@@ -9,7 +9,8 @@ So the first thing we did was sending the mouseclick's X and Y from the sender t
 And it is interesting to deal with the mouse click! Get the mouseclick X and Y first,
 then send the data as the parameters in the mousePressed function!
 
-![螢幕錄影 2023-11-15 下午8 38 07](https://github.com/yclanlan/2023-Fall-SeeingMachine/assets/97862198/9614653d-f695-4f27-b864-6a3ce04a00da)
+![螢幕錄影 2023-11-15 下午8 38 07](https://github.com/yclanlan/2023-Fall-SeeingMachine/assets/97862198/51de508b-4170-479f-ae7b-bfc9f476bb58)
+
 
 =====
 
