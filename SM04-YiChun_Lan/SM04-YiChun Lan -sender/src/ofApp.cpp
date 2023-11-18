@@ -30,9 +30,7 @@ void ofApp::setup(){
 //    box2d.createBounds(ofRectangle(0, 0, kinect.getWidth()-50, kinect.getHeight()
 //            ));
     
-    
-    // Set up NDI senders.
-    // ndiSender.CreateSender("NDI Sender", kinect.getWidth(), kinect.getHeight());
+
     
     //Osc sender
     sendAddr = "localhost";
